@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA-Router-menu/static/css/main.84e93969.css",
+    "main.js": "/RA-Router-menu/static/js/main.9ced6e4c.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Router-menu/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Router-menu/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/RA-Router-menu/index.html",
+    "main.84e93969.css.map": "/RA-Router-menu/static/css/main.84e93969.css.map",
+    "main.9ced6e4c.js.map": "/RA-Router-menu/static/js/main.9ced6e4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e93969.css",
+    "static/js/main.9ced6e4c.js"
+  ]
+}
